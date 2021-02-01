@@ -12,7 +12,7 @@ I play videogames a lot, especially osu! (my profile : https://osu.ppy.sh/users/
  
 <a href="https://instagram.com/ajuelosemmanuel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ajuelosemmanuel" height="30" width="40" /> Instagram Profile (idk why)</a>
 
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucvevb2p-cmszbwrjuz8z7pa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucvevb2p-cmszbwrjuz8z7pa" height="30" width="40" /> Youtube Channel</a>
+<a href="https://www.youtube.com/channel/ucvevb2p-cmszbwrjuz8z7pa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucvevb2p-cmszbwrjuz8z7pa" height="30" width="40" /> Youtube Channel</a>
   
  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Emmanuel#9864" height="30" width="40" /> Discord username : Emmanuel#9864 </a>
 </p>
