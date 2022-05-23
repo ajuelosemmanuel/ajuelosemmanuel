@@ -1,14 +1,18 @@
-<h1 align="center">Hi ! I'm Emmanuel Ajuelos</h1>
+<h1 align="center">Emmanuel Ajuelos</h1>
 <h3 align="center">A student from Paris, France</h3>
 
 
-Hey ! I'm a cybersecurity student at Sorbonne Université. I'm currently working a lot for my studies, but I spend my time learning stuff or creating new projects in order to make my life easier.
+Hey there !
 
-If you came across this page, you're either here from a project related to video games or from my Curriculum Vitae, I guess.
+I'm currently pursuing a cybersecurity master's degree at Sorbonne Université. I'm also an apprentice for Sopra Steria. I like to spend my time learning new stuff and working on projects that make people's life easier.
 
-If you're here for video game-related content, here is my osu! profile : https://osu.ppy.sh/users/10671830. I sometimes stream stuff on twitch too (https://www.twitch.tv/emmanuel_osu).
+If you came across this page, you're either here from my Curriculum Vitae or from a project related to video games or from my Curriculum Vitae :
++ If you're here from my CV, my GitHub account is more about programming than cybersecurity, as I like it a lot.
++ If you're here for video game-related content, here is my [osu! profile](https://osu.ppy.sh/users/10671830). I sometimes stream stuff on [twitch](https://www.twitch.tv/emmanuel_osu) too.
 
-During vacation, I like reading, hiking and working in summercamps.
+During vacation, I like reading, hiking and working in summercamps, where I had the opportunity to teach computer science and robotics.
+
+Here are some social media profiles and my mail address. Please tell me you are coming from GitHub !
 
 
 📫 Mail Address : **ajuelosemmanuel@gmail.com**
