@@ -6,7 +6,7 @@ Hey there !
 
 I'm currently pursuing a cybersecurity master's degree at Sorbonne Université. I'm also an apprentice for Sopra Steria. I like to spend my time learning new stuff and working on projects that make people's life easier.
 
-If you came across this page, you're either here from my Curriculum Vitae or from a project related to video games or from my Curriculum Vitae :
+If you came across this page, you're either here from my Curriculum Vitae or from a project related to video games :
 + If you're here from my CV, my GitHub account is more about programming than cybersecurity, as I like it a lot.
 + If you're here for video game-related content, here is my [osu! profile](https://osu.ppy.sh/users/10671830). I sometimes stream stuff on [twitch](https://www.twitch.tv/emmanuel_osu) too.
 
