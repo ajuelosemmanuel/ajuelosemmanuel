@@ -8,7 +8,7 @@ I'm currently pursuing a cybersecurity master's degree at Sorbonne Université. 
 
 If you came across this page, you're either here from my Curriculum Vitae or from a project related to video games :
 + If you're here from my CV, my GitHub account is more about programming than cybersecurity, as I like it a lot.
-+ If you're here for video game-related content, here is my [osu! profile](https://osu.ppy.sh/users/10671830). I sometimes stream stuff on [twitch](https://www.twitch.tv/emmanuel_osu) too.
++ If you're here for video game-related content, here is my [osu! profile](https://osu.ppy.sh/users/10671830). I sometimes stream stuff on [twitch](https://www.twitch.tv/emmanuel_osu) too. I don't play anymore, but I will maintain my projects for some time :)
 
 During vacation, I like reading, hiking and working in summercamps, where I had the opportunity to teach computer science and robotics.
 
