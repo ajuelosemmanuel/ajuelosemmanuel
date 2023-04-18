@@ -1,5 +1,4 @@
 <h1 align="center">Emmanuel Ajuelos</h1>
-<h3 align="center">A student from Paris, France</h3>
 
 
 Hey there !
