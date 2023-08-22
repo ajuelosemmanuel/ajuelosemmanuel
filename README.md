@@ -14,7 +14,7 @@ During vacation, I like reading, hiking and working in summercamps, where I have
 Here are some social media profiles and my mail address. Please tell me you are coming from GitHub !
 
 
-📫 Mail Address : **ajuelosemmanuel@gmail.com**
+📫 Mail Address : **ajuelosemmanuel@gmail[dot]com**
 
 <p align="left">
 <a href="https://linkedin.com/in/ajuelosemmanuel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ajuelosemmanuel" height="30" width="40" /> Linkedin Profile </a>
