@@ -16,5 +16,5 @@ To get in touch with me, please use one of the following medias, and let me know
 <p align="left">
 <a href="https://linkedin.com/in/ajuelosemmanuel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ajuelosemmanuel" height="30" width="40" /> Linkedin Profile </a>
   
- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Emmanuel#9864" height="30" width="40" /> Discord username : emmanu.el </a>
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Emmanuel#9864" height="30" width="40" /> Discord : emmanu.el </a>
 </p>
