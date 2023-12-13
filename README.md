@@ -3,11 +3,11 @@
 
 Hey there !
 
-I'm currently pursuing a cybersecurity master's degree at Sorbonne Université. I'm also an apprentice for Sopra Steria. I like to spend my time learning new stuff and working on projects that make people's life easier.
+I am a Masters graduate (cybersecurity) from Sorbonne Université. I also worked as an apprentice for Sopra Steria. I like to spend my time learning new stuff and working on projects that make people's life easier, and currently taking a break from work to focus on my "life" projects.
 
 If you came across this page, I suppose you most probably know me for an OSINT related project or an osu! related project.
 
-I don't play as much as before ([osu! profile](https://osu.ppy.sh/users/10671830)), but I will maintain my osu! projects for some time :)
+I don't play as much as before but I will maintain my osu! projects for some time :)
 
 To get in touch with me, please use one of the following medias, and let me know you're coming from my GitHub profile !
 
