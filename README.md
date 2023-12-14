@@ -19,6 +19,9 @@ To get in touch with me, please use one of the following medias, and let me know
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Emmanuel#9864" height="30" width="40" /> Discord : emmanu.el </a>
 </p>
 
+
+<h2 align="center">My Projects</h2>
+
 <details>
 <summary>OSINT</summary>
 <br>
