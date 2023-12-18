@@ -59,3 +59,13 @@ To get in touch with me, please use one of the following medias, and let me know
 
 [FST_bot](https://github.com/ajuelosemmanuel/FST_bot) : IRC bot made for an osu! tournament.
 </details>
+
+<details>
+<summary>Random</summary>
+<br>
+Some random projects that friends asked me to do, so here they are
+
+[ahso](https://github.com/ajuelosemmanuel/ahso) : Discord bot that replaces Twitter and Instagram links on discord to display them correctly
+
+[Loggers](https://github.com/ajuelosemmanuel/Loggers) : Discord bot to gather every message from a text channel
+</details>
