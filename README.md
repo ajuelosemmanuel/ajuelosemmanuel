@@ -58,6 +58,8 @@ To get in touch with me, please use one of the following medias, and let me know
 [wysi-bot](https://github.com/ajuelosemmanuel/wysi-bot) : Fun bot, sadly discontinued by the new Discord intent policy - as the staff wouldn't give me the rights to read messages on channels. Was present on more than 150 servers.
 
 [FST_bot](https://github.com/ajuelosemmanuel/FST_bot) : IRC bot made for an osu! tournament.
+
+[TrackpadAsTouchscreen](https://github.com/ajuelosemmanuel/TrackpadAsTouchscreen) : Scripts to use a Trackpad as a Tablet for osu!
 </details>
 
 <details>
